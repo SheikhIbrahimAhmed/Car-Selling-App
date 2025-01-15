@@ -1,0 +1,20 @@
+{
+  "name": "car-selling-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://SheikhIbrahimAhmed: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@github.com/SheikhIbrahimAhmed/Car-Selling-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheikhIbrahimAhmed/Car-Selling-App/issues"
+  },
+  "homepage": "https://github.com/SheikhIbrahimAhmed/Car-Selling-App#readme"
+}
